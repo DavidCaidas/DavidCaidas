@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DavidCaidas
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning to learn
-- 💞️ I’m looking to collaborate on learning
-- 📫 How to reach me learn about me
+- 👀 I’m interested in learn about all programming languages
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on my classmates 
+- 📫 How to reach me , twitter mostly
 
 <!---
 DavidCaidas/DavidCaidas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
