@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavidCaidas
 - 👀 I’m interested in learn about all programming languages
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on my classmates 
 - 📫 How to reach me , instagram mostly
 
